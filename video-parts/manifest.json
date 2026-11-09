@@ -1,0 +1,64 @@
+[
+  {
+    "path": "assets/cream.mp4",
+    "parts": [
+      "cream.mp4.000.part",
+      "cream.mp4.001.part"
+    ],
+    "sha256": "0e7fe83728179a0626780945166980b9a2c433853a41f23325194658dccad067"
+  },
+  {
+    "path": "assets/kabrita.mp4",
+    "parts": [
+      "kabrita.mp4.000.part",
+      "kabrita.mp4.001.part",
+      "kabrita.mp4.002.part",
+      "kabrita.mp4.003.part"
+    ],
+    "sha256": "734ea16eef82c643b561bb6066fb33ad6f24443d2a8b7856e7bee19207d5fb5c"
+  },
+  {
+    "path": "assets/swan.mp4",
+    "parts": [
+      "swan.mp4.000.part",
+      "swan.mp4.001.part",
+      "swan.mp4.002.part",
+      "swan.mp4.003.part",
+      "swan.mp4.004.part",
+      "swan.mp4.005.part"
+    ],
+    "sha256": "91c919d3ea2e372a39ea645184787aa9c2ab7e99f4eaf271e97a4365234e55ff"
+  },
+  {
+    "path": "assets/drawr.mp4",
+    "parts": [
+      "drawr.mp4.000.part",
+      "drawr.mp4.001.part",
+      "drawr.mp4.002.part",
+      "drawr.mp4.003.part",
+      "drawr.mp4.004.part",
+      "drawr.mp4.005.part",
+      "drawr.mp4.006.part"
+    ],
+    "sha256": "176c74387539f10dfa6f4880d9b6d994858d76c9691473a8194e5d58996ccc45"
+  },
+  {
+    "path": "assets/higgsfield.mp4",
+    "parts": [
+      "higgsfield.mp4.000.part",
+      "higgsfield.mp4.001.part",
+      "higgsfield.mp4.002.part",
+      "higgsfield.mp4.003.part",
+      "higgsfield.mp4.004.part"
+    ],
+    "sha256": "614d21038dcb7f6a168097df8604d11b09b3ae6790578e9a10c559719c185921"
+  },
+  {
+    "path": "assets/delimobil.mp4",
+    "parts": [
+      "delimobil.mp4.000.part",
+      "delimobil.mp4.001.part"
+    ],
+    "sha256": "3d914658b061ef9fdf2435b6a32dd1cb87966c39b27f9d361e3729943e592f81"
+  }
+]
